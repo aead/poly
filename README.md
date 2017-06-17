@@ -18,5 +18,5 @@ Install in your GOPATH: `go get github.com/aead/poly`
 
 ### Performance
 
-For GHASH benchmarks see: [GHASH implementation](github.com/aead/ghash)  
-For Poly1305 benchmarks see: [Poly1305 implementation](github.com/aead/poly1305)  
+For GHASH benchmarks see: [GHASH implementation](https://github.com/aead/ghash)  
+For Poly1305 benchmarks see: [Poly1305 implementation](https://github.com/aead/poly1305)  
