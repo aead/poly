@@ -8,7 +8,7 @@ import (
 
 // Hash defines a common interface for polynomial authenticators.
 type Hash interface {
-	// Write adds more data to the running Poly1305 hash.
+	// Write adds more data to the running authenticator.
 	// This function should return a non-nil error if a call
 	// to Write happens after a call to Sum. So it is not possible
 	// to compute the checksum and than add more data.

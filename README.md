@@ -1,4 +1,4 @@
-# Polynomial authentication schemes
+## Polynomial authentication schemes
 
 A polynomial authenticator is basically a message authentication scheme. Therefore
 the polynomial authenticator takes a secret key and a message of arbitrary size and
